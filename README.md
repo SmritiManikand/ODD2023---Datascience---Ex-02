@@ -1,5 +1,5 @@
 # Ex02-Outlier
-You are given bhp.csv which contains property prices in the city of banglore, India. You need to examine price_per_sqft column and do following,
+You are given bhp.csv which contains property prices in the city of bangalore, India. You need to examine price_per_sqft column and do following,
 
 (1) Remove outliers using IQR
 
@@ -12,3 +12,19 @@ You are given bhp.csv which contains property prices in the city of banglore, In
 (i) Using IQR detect weight outliers and print them
 
 (ii) Using IQR, detect height outliers and print them
+
+# AIM
+To read the given csv file and perform set of operations after removing outliers.
+
+
+# ALGORITHM
+### STEP 1
+Read the given Data
+### STEP 2
+Get the information about the data
+### STEP 3
+Remove the null values from the data
+### STEP 4
+Save the Clean data to the file
+
+# CODE 
